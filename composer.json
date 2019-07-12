@@ -18,6 +18,7 @@
         "sulu/sulu": "dev-develop",
         "symfony/config": "^3.4 || ^4.0",
         "symfony/dotenv": "^3.4 || ^4.0",
+        "symfony/flex": "^1.2",
         "symfony/framework-bundle": "^3.4 || ^4.0",
         "symfony/monolog-bridge": "^3.4 || ^4.0",
         "symfony/monolog-bundle": "^3.1",
